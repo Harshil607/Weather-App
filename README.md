@@ -30,7 +30,7 @@ git clone https://github.com/yourusername/weather-app.git
 2. Open
 
 ```
-index.html
+a.html
 ```
 
 in your browser.
